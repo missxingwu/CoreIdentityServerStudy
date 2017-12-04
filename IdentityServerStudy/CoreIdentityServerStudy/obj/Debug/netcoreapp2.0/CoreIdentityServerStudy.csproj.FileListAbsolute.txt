@@ -1,0 +1,11 @@
+D:\save\IdentityServer\CoreIdentityServerStudy\IdentityServerStudy\CoreIdentityServerStudy\bin\Debug\netcoreapp2.0\CoreIdentityServerStudy.deps.json
+D:\save\IdentityServer\CoreIdentityServerStudy\IdentityServerStudy\CoreIdentityServerStudy\bin\Debug\netcoreapp2.0\CoreIdentityServerStudy.runtimeconfig.json
+D:\save\IdentityServer\CoreIdentityServerStudy\IdentityServerStudy\CoreIdentityServerStudy\bin\Debug\netcoreapp2.0\CoreIdentityServerStudy.runtimeconfig.dev.json
+D:\save\IdentityServer\CoreIdentityServerStudy\IdentityServerStudy\CoreIdentityServerStudy\bin\Debug\netcoreapp2.0\CoreIdentityServerStudy.dll
+D:\save\IdentityServer\CoreIdentityServerStudy\IdentityServerStudy\CoreIdentityServerStudy\obj\Debug\netcoreapp2.0\CoreIdentityServerStudy.csprojResolveAssemblyReference.cache
+D:\save\IdentityServer\CoreIdentityServerStudy\IdentityServerStudy\CoreIdentityServerStudy\obj\Debug\netcoreapp2.0\CoreIdentityServerStudy.csproj.CoreCompileInputs.cache
+D:\save\IdentityServer\CoreIdentityServerStudy\IdentityServerStudy\CoreIdentityServerStudy\obj\Debug\netcoreapp2.0\CoreIdentityServerStudy.AssemblyInfoInputs.cache
+D:\save\IdentityServer\CoreIdentityServerStudy\IdentityServerStudy\CoreIdentityServerStudy\obj\Debug\netcoreapp2.0\CoreIdentityServerStudy.AssemblyInfo.cs
+D:\save\IdentityServer\CoreIdentityServerStudy\IdentityServerStudy\CoreIdentityServerStudy\bin\Debug\netcoreapp2.0\CoreIdentityServerStudy.pdb
+D:\save\IdentityServer\CoreIdentityServerStudy\IdentityServerStudy\CoreIdentityServerStudy\obj\Debug\netcoreapp2.0\CoreIdentityServerStudy.dll
+D:\save\IdentityServer\CoreIdentityServerStudy\IdentityServerStudy\CoreIdentityServerStudy\obj\Debug\netcoreapp2.0\CoreIdentityServerStudy.pdb
