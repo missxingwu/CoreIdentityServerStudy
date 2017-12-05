@@ -8,3 +8,4 @@ D:\save\IdentityServer\CoreIdentityServerStudy\IdentityServerStudy\CoreIdentityS
 D:\save\IdentityServer\CoreIdentityServerStudy\IdentityServerStudy\CoreIdentityServerStudyClient\bin\Debug\netcoreapp2.0\CoreIdentityServerStudyClient.pdb
 D:\save\IdentityServer\CoreIdentityServerStudy\IdentityServerStudy\CoreIdentityServerStudyClient\obj\Debug\netcoreapp2.0\CoreIdentityServerStudyClient.dll
 D:\save\IdentityServer\CoreIdentityServerStudy\IdentityServerStudy\CoreIdentityServerStudyClient\obj\Debug\netcoreapp2.0\CoreIdentityServerStudyClient.pdb
+D:\save\IdentityServer\CoreIdentityServerStudy\IdentityServerStudy\CoreIdentityServerStudyClient\obj\Debug\netcoreapp2.0\CoreIdentityServerStudyClient.csprojResolveAssemblyReference.cache
