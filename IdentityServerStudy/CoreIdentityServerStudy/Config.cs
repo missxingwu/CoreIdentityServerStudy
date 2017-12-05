@@ -9,7 +9,7 @@ using IdentityServer4.Test;
 namespace QuickstartIdentityServer
 {
     /// <summary>
-    /// http://www.cnblogs.com/stulzq/tag/IdentityServer4/
+    /// 
     /// </summary>
     public class Config
     {
